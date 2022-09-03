@@ -10,6 +10,7 @@ $sizes: (
   "700": clamp(3rem, calc(1.9rem + 4.68vw), 6rem),
   "800": clamp(4rem, calc(2.54rem + 6.24vw), 8rem),
   "900": clamp(6rem, calc(3.8rem + 9.37vw), 12rem),
+  "auto": auto,
 );
 
 $positions: (
